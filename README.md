@@ -103,7 +103,7 @@ $ sudo nano ~/.bashrc
 
 맨 아랫줄에 <b>sudo chmod 777 /var/run/sdp</b>를 추가합니다.
 
-
+​    
 
 ---
 
