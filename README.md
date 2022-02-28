@@ -1,6 +1,6 @@
 # (라즈베리파이)에코 통신 예제
 
-<img width="80%" src="./img/blueberry_title.png"/>
+<img src="./img/blueberry_title.png"/>
 
 ---
 
